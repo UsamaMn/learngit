@@ -3,3 +3,6 @@ chapter#1:
 
 Chapter#2:
 - HELLO NEW USERgit config user.namegit config user.namegit config user.namegit config user.namegit confi
+
+Chapter#3:
+- WEllo JHello DEllo
