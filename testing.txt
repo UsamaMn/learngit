@@ -1,2 +1,5 @@
 chapter#1:
 - Hello USAMA AND WELCOME
+
+Chapter#2:
+- HELLO NEW USERgit config user.namegit config user.namegit config user.namegit config user.namegit confi
